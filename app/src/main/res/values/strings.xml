@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VADAS</string>
+    <string name="vadas_service_name">VADAS Driving Safety Service</string>
+    <string name="notification_channel_name">VADAS Driver Assistance</string>
+    <string name="notification_channel_desc">Active driver safety alerts and road monitoring</string>
+    <string name="service_running_title">VADAS Active Driving Assistant</string>
+    <string name="service_running_desc">Perception pipeline running - Circular 31/2019/TT-BGTVT active</string>
+</resources>
